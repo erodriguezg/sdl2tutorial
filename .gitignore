@@ -1,0 +1,6 @@
+.idea/
+cmake-build-*/
+/build/
+.cproject
+.project
+.settings/
